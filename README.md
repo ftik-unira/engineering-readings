@@ -96,7 +96,7 @@ Table of contents:
 * Study engineering
 
 ### 2) Smart Cities Ideas
-* Smart Cities
+* __Smart Cities__
 	- **Smart Parking**
 	Monitoring of parking spaces availability in the city.
 
@@ -137,7 +137,7 @@ Table of contents:
 	- [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)
 	- [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
 
-* Smart Environment
+* __Smart Environment__
 	- **Forest Fire Detection**
 	Monitoring of combustion gases and preemptive fire conditions to define alert zones.
 

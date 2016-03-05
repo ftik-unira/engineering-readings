@@ -1,11 +1,11 @@
 Engineering Talks
 =================
 
-Table of content:
-* [Data Science](https://github.com/ftik-unira/engineering-talks#data-science)
-* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#artificial-intelligence-robotics--iot)
-* [Bio-informatics](https://github.com/ftik-unira/engineering-talks#bio-informatics)
-* [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#distributed-network--cloud-computing)
+Table of contents:
+* [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
+* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics--iot)
+* [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
+* [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-distributed-network--cloud-computing)
 
 =================
 

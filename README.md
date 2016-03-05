@@ -96,30 +96,71 @@ Table of contents:
 * Study engineering
 
 ### 2) Artificial intelligence, robotics, IoT & Smart Cities Ideas
-	- Smart Cities
-		1. Smart Parking
-		2. Structural health
-		3. Noise Urban Maps
-		4. Smartphone Detection
-		5. Electromagnetics Field Levels
-		6. Traffic Congestion
-		7. Smart Lighting
-		8. Waste Management
-		9. Smart Roads
+* Smart Cities
+	1. Smart Parking
+	Monitoring of parking spaces availability in the city.
 
-		Related articles:
+	2. Structural health
+	Monitoring of vibrations and material conditions in buildings, bridges and historical monuments.
 
-		* [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
-		* [Smart Roads](http://www.libelium.com/video-smart-roads)
-		* [BM and Libelium Launch 6LoWPAN Development Platform for the Internet of Things](http://www.libelium.com/ibm-and-libelium-launch-6lowpan-development-platform-for-the-internet-of-things)
-		* [Libelium Smart World Infographic - Sensors for Smart Cities, Internet of Things and beyond](http://www.libelium.com/libelium-smart-world-infographic-smart-cities-internet-of-things)
-		* [Smart City project in Santander to monitor Parking Free Slots](http://www.libelium.com/smart_santander_parking_smart_city)
-		* [Smart Parking and environmental monitoring in one of the world’s largest WSN](http://www.libelium.com/smart_santander_smart_parking)
-		* [Libelium and Telefónica Bring M2M Technology to Smart Cities](http://www.libelium.com/libelium_telefonica_technology_smart_cities)
-		* [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
-		* [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)
-		* [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
+	3. Noise Urban Maps
+	Sound monitoring in bar areas and centric zones in real time.
 
+	4. Smartphone Detection
+	Detect iPhone and Android devices and in general any device which works with WiFi or Bluetooth interfaces.
+
+	5. Electromagnetics Field Levels
+	Measurement of the energy radiated by cell stations and and WiFi routers.
+
+	6. Traffic Congestion
+	Monitoring of vehicles and pedestrian levels to optimize driving and walking routes.
+
+	7. Smart Lighting
+	Intelligent and weather adaptive lighting in street lights.
+
+	8. Waste Management
+	Detection of rubbish levels in containers to optimize the trash collection routes.
+
+	9. Smart Roads
+	Intelligent Highways with warning messages and diversions according to climate conditions and unexpected events like accidents or traffic jams.
+
+	Related articles:
+
+	- [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
+	- [Smart Roads](http://www.libelium.com/video-smart-roads)
+	- [BM and Libelium Launch 6LoWPAN Development Platform for the Internet of Things](http://www.libelium.com/ibm-and-libelium-launch-6lowpan-development-platform-for-the-internet-of-things)
+	- [Libelium Smart World Infographic - Sensors for Smart Cities, Internet of Things and beyond](http://www.libelium.com/libelium-smart-world-infographic-smart-cities-internet-of-things)
+	- [Smart City project in Santander to monitor Parking Free Slots](http://www.libelium.com/smart_santander_parking_smart_city)
+	- [Smart Parking and environmental monitoring in one of the world’s largest WSN](http://www.libelium.com/smart_santander_smart_parking)
+	- [Libelium and Telefónica Bring M2M Technology to Smart Cities](http://www.libelium.com/libelium_telefonica_technology_smart_cities)
+	- [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
+	- [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)
+	- [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
+
+* Smart Environment
+	1. Forest Fire Detection
+	Monitoring of combustion gases and preemptive fire conditions to define alert zones.
+
+	2. Air Pollution
+	Control of CO2 emissions of factories, pollution emitted by cars and toxic gases generated in farms.
+	
+	3. Snow Level Monitoring
+	Snow level measurement to know in real time the quality of ski tracks and allow security corps avalanche prevention.
+
+	4. Landslide and Avalanche Prevention
+	Monitoring of soil moisture, vibrations and earth density to detect dangerous patterns in land conditions.
+
+	5. Earthquake Early Detection
+	Distributed control in specific places of tremors.
+
+	Related articles:
+	- [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
+	- [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
+	- [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)
+	- [Smart Parking Sensor Platform enables city motorists save time and fuel](http://www.libelium.com/smart_parking)
+	- [Sensor networks to monitor air pollution in cities](http://www.libelium.com/smart_cities_wsn_air_pollution)
+	- [Detecting Forest Fires using Wireless Sensor Networks](http://www.libelium.com/wireless_sensor_networks_to_detec_forest_fires)
+	
 
 ### 3) Bio-informatics
 ### 4) Distributed network & cloud computing.

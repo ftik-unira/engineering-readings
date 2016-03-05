@@ -97,34 +97,34 @@ Table of contents:
 
 ### 2) Artificial intelligence, robotics, IoT & Smart Cities Ideas
 * Smart Cities
-	* Smart Parking
+	- **Smart Parking**
 	Monitoring of parking spaces availability in the city.
 
-	* Structural health
+	- **Structural health**
 	Monitoring of vibrations and material conditions in buildings, bridges and historical monuments.
 
-	* Noise Urban Maps
+	- **Noise Urban Maps**
 	Sound monitoring in bar areas and centric zones in real time.
 
-	* Smartphone Detection
+	- **Smartphone Detection**
 	Detect iPhone and Android devices and in general any device which works with WiFi or Bluetooth interfaces.
 
-	* Electromagnetics Field Levels
+	- **Electromagnetics Field Levels**
 	Measurement of the energy radiated by cell stations and and WiFi routers.
 
-	* Traffic Congestion
+	- **Traffic Congestion**
 	Monitoring of vehicles and pedestrian levels to optimize driving and walking routes.
 
-	* Smart Lighting
+	- **Smart Lighting**
 	Intelligent and weather adaptive lighting in street lights.
 
-	* Waste Management
+	- **Waste Management**
 	Detection of rubbish levels in containers to optimize the trash collection routes.
 
-	* Smart Roads
+	- **Smart Roads**
 	Intelligent Highways with warning messages and diversions according to climate conditions and unexpected events like accidents or traffic jams.
 
-	Related articles:
+	**Related articles:**
 
 	- [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
 	- [Smart Roads](http://www.libelium.com/video-smart-roads)
@@ -138,22 +138,23 @@ Table of contents:
 	- [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
 
 * Smart Environment
-	* Forest Fire Detection
+	- **Forest Fire Detection**
 	Monitoring of combustion gases and preemptive fire conditions to define alert zones.
 
-	* Air Pollution
+	- **Air Pollution**
 	Control of CO2 emissions of factories, pollution emitted by cars and toxic gases generated in farms.
 	
-	* Snow Level Monitoring
+	- **Snow Level Monitoring**
 	Snow level measurement to know in real time the quality of ski tracks and allow security corps avalanche prevention.
 
-	* Landslide and Avalanche Prevention
+	- **Landslide and Avalanche Prevention**
 	Monitoring of soil moisture, vibrations and earth density to detect dangerous patterns in land conditions.
 
-	* Earthquake Early Detection
+	- **Earthquake Early Detection**
 	Distributed control in specific places of tremors.
 
-	Related articles:
+	**Related articles:**
+	
 	- [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
 	- [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
 	- [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)

@@ -3,9 +3,9 @@ Engineering Talks
 
 Table of contents:
 * [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
-* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics-iot--smart-cities-ideas)
+* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-smart-cities-ideas)
 * [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
-* [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-distributed-network--cloud-computing)
+* [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-cloud-computing)
 
 =================
 
@@ -95,7 +95,7 @@ Table of contents:
 * Practice
 * Study engineering
 
-### 2) Artificial intelligence, robotics, IoT & Smart Cities Ideas
+### 2) Smart Cities Ideas
 * Smart Cities
 	- **Smart Parking**
 	Monitoring of parking spaces availability in the city.
@@ -164,5 +164,5 @@ Table of contents:
 	
 
 ### 3) Bio-informatics
-### 4) Distributed network & cloud computing.
+### 4) Cloud computing
 

@@ -154,7 +154,7 @@ Table of contents:
 	Distributed control in specific places of tremors.
 
 	**Related articles:**
-	
+
 	- [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
 	- [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
 	- [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)

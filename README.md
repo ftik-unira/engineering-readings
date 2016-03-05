@@ -1,8 +1,94 @@
 Engineering Talks
 =================
 
-* Data Science
-* Artificial intelligence, robotics & IoT
-* Bio-informatics
-* Distributed network & cloud computing.
+### Data Science
+* What is data science?
+
+* Numerical Analysis
+	- [Introduction to numerical analysis](http://homerreid.dyndns.org/teaching/18.330/)
+	- [The History of Numerical Analysis and Scientific Computing](http://history.siam.org/)
+	- [Bell, Koren and Volinsky, Matrix factorization for recommender systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf)
+	- [Bell & Koren, Scalable Collaborative Filtering](http://public.research.att.com/~volinsky/netflix/BellKorICDM07.pdf)
+	- [Ilya Grigorik, SVD Recommendation System in Ruby](http://www.igvita.com/2007/01/15/svd-recommendation-system-in-ruby/)
+	- [Berry et al. Using linear algebra for intelligent information retrieval](http://www2.denizyuret.com/ref/berry/berry95using.pdf)
+	- [Khan Academy, Linear Algebra](http://www.khanacademy.org/#linear-algebra)
+	- [Stewart, The decompositional approach to matrix computation](http://galton.uchicago.edu/~lekheng/courses/309/top10/matrix.pdf)
+	- [Halko, Martinsson and Tropp, Finding structure with randomness](http://amath.colorado.edu/faculty/martinss/Pubs/2010_HMT_random_review.pdf)
+	- [Press et al., Numerical Recipes](http://www.nr.com/)
+	- [Kempf, Numerical software tools in C](http://www.amazon.com/Numerical-Software-Tools-Prentice-Hall-software/dp/0136272746/)
+	- [Dahlquist & Bjorck, Numerical Methods](http://www.amazon.com/Numerical-Methods-Germund-Dahlquist/dp/0486428079)
+	- [Golub & Van Loan: Matrix Computations](http://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/0801854148)
+	- [Watkins, Fundamentals of Matrix Computations (this is a very gentle intro to the field](http://www.amazon.com/Fundamentals-Matrix-Computations-David-Watkins/dp/0471213942)
+	- [Strang, Introduction to Applied Mathematics](http://www.amazon.com/Introduction-Applied-Mathematics-Gilbert-Strang/dp/0961408804)
+	- [Demmel, Applied Numeric Linear Algebra](http://www.amazon.com/Applied-Numerical-Linear-Algebra-Demmel/dp/0898713897)
+	- [Trefethen & Bau, Numerical linear algebra](http://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
+	- [Watkins: The Matrix Eigenvalue Problem: GR and Krylov Subspace Methods](http://www.amazon.com/Matrix-Eigenvalue-Problem-Subspace-Methods/dp/0898716411/)
+	- [Parlett,The Symmetric Eigenvalue Problem](http://www.amazon.com/Symmetric-Eigenvalue-Problem-Classics-Mathematics/dp/0898714028/)
+	- [Hildebrand, Introduction to Numerical Analysis](http://www.amazon.com/Introduction-Numerical-Analysis-Advanced-Mathematics/dp/0486653633)
+	- [Iverson, Algebra: an algorithmic treatment](http://www.amazon.com/Algebra-algorithmic-treatment-Kenneth-Iverson/dp/B0006WTFW6)
+	- [Lanczos, Linear Differential Operators](http://www.amazon.com/Differential-Operators-Classics-Applied-Mathematics/dp/0898713706/)
+	- [Bellman, Introduction to Matrix Analysis](http://www.amazon.com/Introduction-Analysis-Classics-Applied-Mathematics/dp/0898713994/r)
+	- [Bertsekas, Parallel and Distributed Computation: Numerical Methods](http://www.amazon.com/Parallel-Distributed-Computation-Numerical-Methods/dp/0136487009)
+	- [Hamming, Numerical Methods for Scientists and Engineers](http://www.amazon.com/Numerical-Methods-Scientists-Engineers-Richard/dp/0486652416)
+	- [Bierman, Factorization Methods for Discrete Sequential Estimation](http://www.amazon.com/Factorization-Methods-Discrete-Sequential-Estimation/dp/0486449815)
+	- [Wilkinson, The algebraic Eigenvalue Problem](http://www.amazon.com/Algebraic-Eigenvalue-Mathematics-Scientific-Computation/dp/0198534183)
+	- [Horn, Matrix Analysis](http://www.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521386322)
+	- [Courant & Hilbert, Methods of Mathematical Physics](http://www.amazon.com/Methods-Mathematical-Physics-Vol-1/dp/0471179906/)
+	- [Harville, Matrix Algebra from a statistician perspective](http://www.amazon.com/gp/product/0387783563/ref=ord_cart_shr?ie=UTF8&m=A2L77EE7U53NWQ&tag=vglnk-c2-20)
+	- [Fiedler, Special Matrices](http://www.amazon.com/Special-Matrices-Applications-Numerical-Mathematics/dp/0486466752)
+	- [Higham, Accuracy and stability of numerical algorithms](http://www.amazon.com/gp/product/0898715210/)
+	- [Tewarson, Sparse Matrices](http://books.google.com/books?id=aU2fYX_TbZ8C)
+	- [Gill et al., Numerical linear algebra and optimization](http://books.google.com/books?id=ng3vAAAAMAAJ)
+	- [Gill et al., Practical Optimization](http://www.amazon.com/Practical-Optimization-Philip-Gill/dp/0122839528)
+	- [Langville & Meyer, Google Page Rank and Beyond](http://www.amazon.com/Googles-PageRank-Beyond-Science-Rankings/dp/0691122024)
+	- [Godsil, Algebraic Graph Theory](http://www.amazon.com/Algebraic-Graph-Theory-Chris-Godsil/dp/0387952209)
+	- [Nielsen, PageRank tutorial](http://michaelnielsen.org/blog/using-your-laptop-to-compute-pagerank-for-millions-of-webpages/)
+	- [Mannix, Numerical recipes in Hadoop](http://www.slideshare.net/jakemannix/seattle-scalability-mahout)
+	- [Vandebril et al., Matrix Computations and Semiseparable Matrices: Eigenvalue and Singular Value Methods](http://books.google.com/books?id=846lwZRwrb0C)
+	- [Bickson, Matrix factorization algorithms](http://bickson.blogspot.com/2011/06/matrix-factorization-algorithms.html)
+	- [Moler, Numerical Computing with MATLAB](http://www.mathworks.com/moler/chapters.html)
+	- [Meurant, Computer solution of large linear systems](http://books.google.com/books?id=fSqfb5a3WrwC&printsec=frontcover#v=onepage&q&f=false)
+	- [Golub's works](http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&sort=relevancerank&search-alias=books&field-author=Gene+H.+Golub)
+	- [Dongarra's works](http://www.netlib.org/utk/people/JackDongarra/books.htm)
+	- [Apache Mahout](https://www.quora.com/topic/Apache-Mahout)
+	- [Atkinson, Introduction to Numerical Analysis, on-line resources](http://www.cs.uiowa.edu/~atkinson/ina_sem1.html)
+	- [Mehta, Random Matrices](http://www.amazon.com/Random-Matrices-Third-Applied-Mathematics/dp/0120884097)
+	- [Fornasier, Theoretical Foundations and Numerical Methods for Sparse Recovery](http://www.amazon.com/gp/product/3110226146/)
+	- [Scientific computing with Python](http://numpy.scipy.org/)
+	- [Numerical Analysis - Source Code Repositories](http://www.sai.msu.su/sal/B/1/)
+	- [Netlib is a collection of mathematical software, papers, and databases](http://www.netlib.org/)
+	- [Junction trees in numerical analysis](http://yaroslavvb.blogspot.com/2011/02/junction-trees-in-numerical-analysis.html)
+	- [GraphLab, A New Parallel Framework for Machine Learning](http://www.graphlab.ml.cmu.edu/)
+	- [NAG C numerical library](http://www.nag.co.uk/numeric/CL/nagdoc_cl09/html/FRONTMATTER/manconts.html)
+	- [Burden & Faires, Numerical Analysis](http://books.google.nl/books/about/Numerical_Analysis.html?id=zXnSxY9G2JgC&redir_esc=y)
+	- [Applied Math](http://iacs-courses.seas.harvard.edu/courses/am205/fall13/)
+
+* Statistical analysis
+	- [Start learning statistics by coding with R](https://www.quora.com/What-are-essential-references-for-R)
+	- [Experiment with real-world data](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+	- [Compiled some great materials on computational statistics, check out his lecture slides, and also](http://www.stat.cmu.edu/~cshalizi/)
+	- [The Elements of Statistical Learning](http://www.amazon.com/gp/product/0387848576)
+	- [An Introduction to Statistical Learning](http://www.amazon.com/gp/product/1461471370)
+	- [Think Stats](http://www.amazon.com/gp/product/1449307116)
+	- [Data mining, inference, and prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+	- [An introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+	- [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)
+	- [Knight, Bayesian Inference with Tears](http://www.isi.edu/natural-language/people/bayes-with-tears.pdf)
+	- [Khan Academy, Statistics](http://www.khanacademy.org/#statistics)
+	- [Data Mining](http://www.stat.cmu.edu/~cshalizi/350/)
+	- [Undergraduate Advanced Data Analysis](http://www.stat.cmu.edu/~cshalizi/uADA/15/)
+	- [Computational Analysis](http://www.eng.utah.edu/~cs5961/)
+	- [Statistics 110: Probability (Youtube)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+	
+* Data optimization
+* Machine learning
+* Information retrieval
+* Signal detection and estimation
+* Algorithms and data structures
+* Practice
+* Study engineering
+
+### Artificial intelligence, robotics & IoT
+### Bio-informatics
+### Distributed network & cloud computing.
 

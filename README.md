@@ -2,8 +2,7 @@ Engineering Talks
 =================
 
 ### Data Science
-* What is data science?
-
+* [What is data scientist](https://www.quora.com/What-is-a-data-scientist-3?redirected_qid=58676)
 * Numerical Analysis
 	- [Introduction to numerical analysis](http://homerreid.dyndns.org/teaching/18.330/)
 	- [The History of Numerical Analysis and Scientific Computing](http://history.siam.org/)
@@ -79,7 +78,7 @@ Engineering Talks
 	- [Undergraduate Advanced Data Analysis](http://www.stat.cmu.edu/~cshalizi/uADA/15/)
 	- [Computational Analysis](http://www.eng.utah.edu/~cs5961/)
 	- [Statistics 110: Probability (Youtube)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-	
+
 * Data optimization
 * Machine learning
 * Information retrieval

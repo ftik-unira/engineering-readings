@@ -1,11 +1,11 @@
-Engineering Talks
+Engineering Readings
 =================
 
 Table of contents:
 * [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
-* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-smart-cities-ideas)
+* [Internet of Things](https://github.com/ftik-unira/engineering-talks#2-smart-cities-ideas)
 * [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
-* [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-cloud-computing)
+* [Cloud computing](https://github.com/ftik-unira/engineering-talks#4-cloud-computing)
 
 =================
 

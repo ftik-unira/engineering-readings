@@ -3,7 +3,7 @@ Engineering Talks
 
 Table of contents:
 * [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
-* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics-iot--smart-sities-ideas)
+* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics-iot--smart-cities-ideas)
 * [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
 * [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-distributed-network--cloud-computing)
 
@@ -97,31 +97,31 @@ Table of contents:
 
 ### 2) Artificial intelligence, robotics, IoT & Smart Cities Ideas
 * Smart Cities
-	1. Smart Parking
+	* Smart Parking
 	Monitoring of parking spaces availability in the city.
 
-	2. Structural health
+	* Structural health
 	Monitoring of vibrations and material conditions in buildings, bridges and historical monuments.
 
-	3. Noise Urban Maps
+	* Noise Urban Maps
 	Sound monitoring in bar areas and centric zones in real time.
 
-	4. Smartphone Detection
+	* Smartphone Detection
 	Detect iPhone and Android devices and in general any device which works with WiFi or Bluetooth interfaces.
 
-	5. Electromagnetics Field Levels
+	* Electromagnetics Field Levels
 	Measurement of the energy radiated by cell stations and and WiFi routers.
 
-	6. Traffic Congestion
+	* Traffic Congestion
 	Monitoring of vehicles and pedestrian levels to optimize driving and walking routes.
 
-	7. Smart Lighting
+	* Smart Lighting
 	Intelligent and weather adaptive lighting in street lights.
 
-	8. Waste Management
+	* Waste Management
 	Detection of rubbish levels in containers to optimize the trash collection routes.
 
-	9. Smart Roads
+	* Smart Roads
 	Intelligent Highways with warning messages and diversions according to climate conditions and unexpected events like accidents or traffic jams.
 
 	Related articles:
@@ -138,19 +138,19 @@ Table of contents:
 	- [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
 
 * Smart Environment
-	1. Forest Fire Detection
+	* Forest Fire Detection
 	Monitoring of combustion gases and preemptive fire conditions to define alert zones.
 
-	2. Air Pollution
+	* Air Pollution
 	Control of CO2 emissions of factories, pollution emitted by cars and toxic gases generated in farms.
 	
-	3. Snow Level Monitoring
+	* Snow Level Monitoring
 	Snow level measurement to know in real time the quality of ski tracks and allow security corps avalanche prevention.
 
-	4. Landslide and Avalanche Prevention
+	* Landslide and Avalanche Prevention
 	Monitoring of soil moisture, vibrations and earth density to detect dangerous patterns in land conditions.
 
-	5. Earthquake Early Detection
+	* Earthquake Early Detection
 	Distributed control in specific places of tremors.
 
 	Related articles:

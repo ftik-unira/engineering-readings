@@ -2,10 +2,10 @@ Engineering Readings
 =================
 
 Table of contents:
-* [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
-* [Internet of Things](https://github.com/ftik-unira/engineering-talks#2-smart-cities-ideas)
-* [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
-* [Cloud computing](https://github.com/ftik-unira/engineering-talks#4-cloud-computing)
+* [Data Science](https://github.com/ftik-unira/engineering-readings#1-data-science)
+* [Internet of Things](https://github.com/ftik-unira/engineering-readings#2-smart-cities-ideas)
+* [Bio-informatics](https://github.com/ftik-unira/engineering-readings#3-bio-informatics)
+* [Cloud computing](https://github.com/ftik-unira/engineering-readings#4-cloud-computing)
 
 =================
 

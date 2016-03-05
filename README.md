@@ -3,7 +3,7 @@ Engineering Talks
 
 Table of contents:
 * [Data Science](https://github.com/ftik-unira/engineering-talks#1-data-science)
-* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics--iot)
+* [Artificial intelligence, robotics & IoT](https://github.com/ftik-unira/engineering-talks#2-artificial-intelligence-robotics-iot--smart-sities-ideas)
 * [Bio-informatics](https://github.com/ftik-unira/engineering-talks#3-bio-informatics)
 * [Distributed network & cloud computing](https://github.com/ftik-unira/engineering-talks#4-distributed-network--cloud-computing)
 
@@ -95,7 +95,32 @@ Table of contents:
 * Practice
 * Study engineering
 
-### 2) Artificial intelligence, robotics & IoT
+### 2) Artificial intelligence, robotics, IoT & Smart Cities Ideas
+	- Smart Cities
+		1. Smart Parking
+		2. Structural health
+		3. Noise Urban Maps
+		4. Smartphone Detection
+		5. Electromagnetics Field Levels
+		6. Traffic Congestion
+		7. Smart Lighting
+		8. Waste Management
+		9. Smart Roads
+
+		Related articles:
+
+		* [Urban Resilience in the Smart City: River Flood and Forest Fire Early Detection](http://www.libelium.com/smart-city-urban-resilience-smart-environment)
+		* [Smart Roads](http://www.libelium.com/video-smart-roads)
+		* [BM and Libelium Launch 6LoWPAN Development Platform for the Internet of Things](http://www.libelium.com/ibm-and-libelium-launch-6lowpan-development-platform-for-the-internet-of-things)
+		* [Libelium Smart World Infographic - Sensors for Smart Cities, Internet of Things and beyond](http://www.libelium.com/libelium-smart-world-infographic-smart-cities-internet-of-things)
+		* [Smart City project in Santander to monitor Parking Free Slots](http://www.libelium.com/smart_santander_parking_smart_city)
+		* [Smart Parking and environmental monitoring in one of the world’s largest WSN](http://www.libelium.com/smart_santander_smart_parking)
+		* [Libelium and Telefónica Bring M2M Technology to Smart Cities](http://www.libelium.com/libelium_telefonica_technology_smart_cities)
+		* [Smart City project in Serbia for environmental monitoring by Public Transportation](http://www.libelium.com/smart_city_environmental_parameters_public_transportation_waspmote)
+		* [Smart City project in Salamanca to monitor Air Quality and Urban Traffic](http://www.libelium.com/smart_city_air_quality_urban_traffic_waspmote)
+		* [Smart Water: wireless sensor networks to detect floods and respond](http://www.libelium.com/smart_water_wsn_flood_detection)
+
+
 ### 3) Bio-informatics
 ### 4) Distributed network & cloud computing.
 
